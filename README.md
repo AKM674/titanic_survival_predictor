@@ -26,3 +26,6 @@ survived or not based on their age, gender, class, and family details.
 - Pandas
 - Scikit-learn
 - Matplotlib
+
+## 🚀 Live Demo
+👉 [Try the app here](https://titanicsurvivalpredictor-fxdkx7qcr9ktifjaxqtgmj.streamlit.app/)
